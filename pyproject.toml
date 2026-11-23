@@ -1,0 +1,14 @@
+[project]
+name = "local-interaction-between-layers"
+version = "0.1.0"
+description = "Code for the paper 'A preference for local interaction between layers emerges during training'"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+    "torch>=2.2",
+]
+
+[tool.uv]
+package = false

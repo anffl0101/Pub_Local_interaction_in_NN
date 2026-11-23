@@ -1,0 +1,8 @@
+{
+  "_comment": "Task settings read by the run scripts. Training settings: SGLD in scripts/runs/sgld_production.py, AdamW in scripts/runs/adamw_production.py.",
+  "data": {
+    "p": 113,
+    "train_fraction": 0.4,
+    "seed": 0
+  }
+}
